@@ -29,5 +29,3 @@ install(FILES multitail.1
         DESTINATION share/man/man1/multitail.1)
 install(FILES multitail.conf
         DESTINATION /etc/multitail/)
-install(FILES convert-geoip.pl convert-simple.pl colors-example.pl  colors-example.sh
-	DESTINATION /etc/multitail/)
